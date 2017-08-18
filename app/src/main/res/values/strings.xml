@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">SOS</string>
+    <string name="api_url">http://sos.au-syd.mybluemix.net/api</string>
+    <string name="btn_register">Register</string>
+    <string name="btn_emergency">Emergency</string>
+    <string name="btn_user">User</string>
+    <string name="btn_responser">Responser</string>
+    <string name="lbl_register">Register Device For</string>
+    <string name="lbl_androidId">Unique ID should appear here</string>
+    <string name="input_userId">User Id</string>
+    <string name="input_userName">Full Name</string>
+    <string name="input_phone">Mobile Number</string>
+    <string name="input_address">Address</string>
+    <string name="input_emergency_name">Emergency Contact Name</string>
+    <string name="input_emergency_phone">Contact Mobile Number</string>
+    <string name="register">Registration</string>
+    <string name="medical">Medical Details</string>
+    <string name="emergency">Emergency Contact Details</string>
+    <string name="medicalDetails">Medical Details</string>
+    <string name="relationship_list">Spouse,Son,Daughter,Father,Mother,Father-in-Law,Daughter-in-Law</string>
+    <string name="emergency_name">HELP</string>
+    <string name="registrationOptions_name">SOS Registration Options</string>
+    <string name="userRegistration_name">Registration as a User</string>
+    <string name="responserRegistration_name">Registration as a Responser</string>
+    <string name="responser_name">SOS Responser</string>
+</resources>
